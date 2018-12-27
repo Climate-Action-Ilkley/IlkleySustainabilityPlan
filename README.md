@@ -1,6 +1,7 @@
 # Ilkley Sustainability Plan
 
 ## Introduction
+This is a completely standalone annexe to the Ilkley Neighbourhood Plan. 
 
 ## One Planet Living Framework
 
